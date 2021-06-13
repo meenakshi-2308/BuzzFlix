@@ -1,0 +1,26 @@
+.login_ele{
+    color:rgb(2, 63, 104);
+    text-align: justify;
+}
+.login{
+    position: absolute;
+    top:35%;
+    left:35%;
+
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: justify;
+
+}
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input{
+    border-radius: 25%;
+}
